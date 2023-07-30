@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8N/B3dvzljkxqQ7Fk9hOw/mOrt8rDgveSNxZ1VnHFWU=",
+  "Source": "HelloDotNetCore",
+  "BasePath": "_content/HelloDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
