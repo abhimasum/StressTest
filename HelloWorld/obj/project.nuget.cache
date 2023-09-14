@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AwbCrow1F7JrRI0QqwvnT9aduoTHbAO1fXiPWvhEAjkmOa8Yr1ejJvENSNuvnnQQCbueil1hQ2b8UqsOyzQfvw==",
+  "dgSpecHash": "hAW6wRFfmFW9JgCg9AA4g//a2V7BQYzMMh+RP2g+FHDNfZHYolisbv81uJcgPXOQeg++wl3K5EGGxVj9yu8liQ==",
   "success": true,
   "projectFilePath": "E:\\PROGRAMING\\DotNetCore\\HelloDotNetCore\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,10 @@
     "C:\\Users\\abhim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\abhim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\abhim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\abhim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
   ],
   "logs": []
 }
