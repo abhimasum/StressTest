@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-deployment
+spec:
+  selector:
+    matchLabels:
+      app: helloaspnetlinux
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: helloaspnetlinux
+    spec:
+      containers:
+        - name: helloaspnetlinux
+          image: abhimasum/aspnethellolinux:v1
+          ports:
+            - containerPort: 3000
