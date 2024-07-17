@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: abhimasum2.azurecr.io/pythonpipeline:#{Build.BuildId}#
+        image: abhimasum2.azurecr.io/pythonpipeline
         ports:
         - containerPort: 5000
 # service type loadbalancer       
