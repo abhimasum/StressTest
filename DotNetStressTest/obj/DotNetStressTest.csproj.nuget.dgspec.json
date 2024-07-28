@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\HelloWorld\\HelloWorld.csproj": {}
+    "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\DotNetStressTest\\DotNetStressTest.csproj": {}
   },
   "projects": {
-    "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\HelloWorld\\HelloWorld.csproj": {
+    "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\DotNetStressTest\\DotNetStressTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\DotNetStressTest\\DotNetStressTest.csproj",
+        "projectName": "DotNetStressTest",
+        "projectPath": "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\DotNetStressTest\\DotNetStressTest.csproj",
         "packagesPath": "C:\\Users\\abhim\\.nuget\\packages\\",
-        "outputPath": "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\HelloWorld\\obj\\",
+        "outputPath": "E:\\PROGRAMING\\DotNetCore\\StressTest\\DotNetCoreStressTest\\DotNetStressTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhim\\AppData\\Roaming\\NuGet\\NuGet.Config",

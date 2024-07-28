@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2Wp/wd226nZktsuWvhLVAzTTLlIKMzk4ufjayaCyzH4=",
+  "Source": "DotNetStressTest",
+  "BasePath": "_content/DotNetStressTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
