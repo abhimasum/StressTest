@@ -7,7 +7,7 @@ namespace DotNetStressTest.Controllers
     public class StressTestController : ControllerBase
     {
         private static bool finish = false;
-
+        
         public StressTestController()
         {
            
