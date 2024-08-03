@@ -18,7 +18,7 @@ namespace DotNetStressTest.Controllers
         {
             long y = 1;
             //finish = stoprunning;
-            for (long i = 0;i<100000000; i++)
+            for (long i = 0;i<100000; i++)
             {
                 y++;
                 y=y / 100;
