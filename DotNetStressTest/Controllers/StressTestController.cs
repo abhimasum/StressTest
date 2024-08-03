@@ -6,7 +6,7 @@ namespace DotNetStressTest.Controllers
     [Route("[controller]")]
     public class StressTestController : ControllerBase
     {
-        private static bool finish = false;
+       
         
         public StressTestController()
         {
@@ -14,13 +14,14 @@ namespace DotNetStressTest.Controllers
         }
 
         [HttpGet(Name = "GetStressTest")]
-        public string Get(bool stoprunning=false)
+        public string Get()
         {
-            finish = stoprunning;
-            for (int i = 0;; i++)
-            {                
-                if (finish)
-                    break;               
+            long y = 1;
+            //finish = stoprunning;
+            for (long i = 0;i<100000000; i++)
+            {
+                y++;
+                y=y / 100;
             }
             return "Running Stops";
         }
