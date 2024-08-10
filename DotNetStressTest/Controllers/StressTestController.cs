@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace DotNetStressTest.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("{controller}/{action}")]
     public class StressTestController : ControllerBase
     {
        
@@ -13,19 +13,26 @@ namespace DotNetStressTest.Controllers
            
         }
 
-        [HttpGet(Name = "GetStressTest")]
-        public string Get()
+        
+        public string LongRun()
         {
-            long y = 55555;
+            long y = 1523;
             //finish = stoprunning;
-            for (long i = 0;i<100000000; i++)
+            for (long i = 0;i<100000; i++)
             {
                 y = y * 23;
                 y = y / 23;              
             }
-            return "Running Stops";
+            return "Long Run Completes";
         }
 
         
+        public string Test()
+        {
+            
+            return "Hello its working fine!!!";
+        }
+
+
     }
 }
