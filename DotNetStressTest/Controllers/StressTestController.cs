@@ -16,12 +16,12 @@ namespace DotNetStressTest.Controllers
         [HttpGet(Name = "GetStressTest")]
         public string Get()
         {
-            long y = 1;
+            long y = 55555;
             //finish = stoprunning;
-            for (long i = 0;i<100000; i++)
+            for (long i = 0;i<100000000; i++)
             {
-                y++;
-                y=y / 100;
+                y = y * 23;
+                y = y / 23;              
             }
             return "Running Stops";
         }
